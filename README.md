@@ -12,7 +12,8 @@
 ## 🗣️ **Languages**
 - Spanish: Nativo/Bilingüe  
 - English: A bit limited 
-- Italian: Good enough for work 
+- Italian: Good enough for work
+- French: Too limited, but it is what it is...
 
 ## 📚 **Education**
 - **Centro de Referencia Nacional en Desarrollo Informático y Comunicaciones (Getafe)**:  
