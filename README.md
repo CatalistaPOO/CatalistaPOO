@@ -4,7 +4,7 @@
 **CatalistaPOO/CatalistaPOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Fernando G. 🎨
+# Fernando G. 🎨 💻🎮
 **Location:** Madrid, España 
 ### 3D Artist | Graphic design | Game Developer
 #### ***[Artstation](https://catalista.artstation.com)***  · My 3D stuff
