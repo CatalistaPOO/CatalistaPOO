@@ -5,7 +5,7 @@
 -->
 
 # Fernando G. 🎨 💻
-**Location:** Madrid, España 
+<!-- **Location:** Madrid, España -->
 ### 3D Artist | Graphic design | Game Developer
 #### ***[Artstation](https://catalista.artstation.com)***  · My 3D stuff 🧊
 #### ***[Itch.io](https://catalista.itch.io)***  · My games 🎮
