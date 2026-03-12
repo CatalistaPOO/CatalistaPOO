@@ -16,7 +16,8 @@
 - French: Too limited, but it is what it is...
 
 ## 📚 **Education**
-- **Centro de Referencia Nacional en Desarrollo Informático y Comunicaciones (Getafe)**:  
+- **Centro de Referencia Nacional en Desarrollo Informático y Comunicaciones (Getafe)**: 
+  - Spring and Hinernate
   - Object-Oriented Programming & Relational Databases 
   - Game Development with Unreal Engine 5 
   - Game Development with Unity
