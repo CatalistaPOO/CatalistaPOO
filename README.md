@@ -17,7 +17,7 @@
 
 ## 📚 **Education**
 - **Centro de Referencia Nacional en Desarrollo Informático y Comunicaciones (Getafe)**: 
-  - Spring and Hinernate
+  - Spring and Hibernate
   - Object-Oriented Programming & Relational Databases 
   - Game Development with Unreal Engine 5 
   - Game Development with Unity
