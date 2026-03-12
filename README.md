@@ -18,7 +18,7 @@
 ## 📚 **Education**
 - **Centro de Referencia Nacional en Desarrollo Informático y Comunicaciones (Getafe)**: 
   - Spring and Hibernate
-  - Object-Oriented Programming & Relational Databases 
+  - Object-Oriented Programming & Relational Databases (Certificado profesional IFCD0112 OOP and relational DDBB)
   - Game Development with Unreal Engine 5 
   - Game Development with Unity
 - **Complutense University of Madrid**:  
