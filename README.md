@@ -3,7 +3,7 @@
 <!--
 **CatalistaPOO/CatalistaPOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm50am1wMjU0NTZzZ3E4d3R2N205NnFwbGxneXFvbjg4dWoxeDhiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif" alt="Header" style="width:100%; height:auto;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm50am1wMjU0NTZzZ3E4d3R2N205NnFwbGxneXFvbjg4dWoxeDhiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif" alt="Header" style="width:auto; height:auto;">
 <!--
 ![Logo de Markdown](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm50am1wMjU0NTZzZ3E4d3R2N205NnFwbGxneXFvbjg4dWoxeDhiayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
 -->
