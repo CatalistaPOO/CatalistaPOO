@@ -31,10 +31,11 @@
 
 <p align="center">
 <a href="https://catalista.artstation.com" target="_blank">
-  <img src="https://img.shields.io/badge/ArtStation-🟦_My_3D_stuff_%E2%96%A3-0057ff?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation Portfolio" />
+  <!-- <img src="https://img.shields.io/badge/ArtStation-🟦_My_3D_stuff_%E2%96%A3-0057ff?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation Portfolio" /> -->
+  <img src="https://img.shields.io/badge/ArtStation %E2%96%A3-0057ff?style=for-the-badge&logo=artstation&logoColor=white" alt="Artstation Portfolio" />
 </a>
 <a href="https://catalista.itch.io" target="_blank">
-  <img src="https://img.shields.io/badge/Itch.io-🕹️_My_Games_%E2%9F%A1-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Games" />
+  <img src="https://img.shields.io/badge/Itch.io %E2%9F%A1-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Games" />
 </a>
 </p>
 
