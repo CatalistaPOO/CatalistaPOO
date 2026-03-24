@@ -77,15 +77,6 @@
 
 ---
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%93%9A+Education" alt="Education" />
-
-- **Centro de Referencia Nacional (Getafe)**: 
-  - *Spring and Hibernate*
-  - *OOP & Relational DDBB (Certificado profesional IFCD0112)*
-  - *Game Development (Unreal Engine 5 & Unity)*
-- **Complutense University of Madrid**:  
-  - *Bachelor's Degree in Fine Arts* -->
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
 
 Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** (UCM) con el desarrollo de software. Me interesa especialmente cómo el diseño visual y la programación pueden trabajar juntos.
@@ -93,8 +84,6 @@ Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** (UCM) co
 * **Lo que hago:** Desarrollo aplicaciones con **Java y Spring**, gestiono bases de datos y diseño experiencias en **3D y videojuegos** (Unreal/Unity).
 * **Mi formación:** Me especialicé en el CRN de Getafe en desarrollo orientado a objetos y bases de datos relacionales (*Certificado IFCD0112*).
 * **Intereses:** Me apasiona seguir aprendiendo sobre nuevas herramientas que permitan crear soluciones funcionales y con buen acabado estético.
-
----
 
 ---
 
