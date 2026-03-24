@@ -80,11 +80,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Sobre+m%C3%AD" alt="Sobre mí" />
 
-Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** (UCM) con el desarrollo de software. Me interesa especialmente cómo el diseño visual y la programación pueden trabajar juntos.
+Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** con el desarrollo de software. Me interesa especialmente cómo el diseño visual y la programación pueden trabajar juntos.
 
 * **Lo que hago:** Desarrollo aplicaciones con **Java y Spring**, gestiono bases de datos y diseño experiencias en **3D y videojuegos** (Unreal/Unity).
-* **Mi formación:** Me especialicé en el CRN de Getafe en desarrollo orientado a objetos y bases de datos relacionales (*Certificado profesional IFCD0112*).
-* **Intereses:** Me apasiona seguir aprendiendo sobre nuevas herramientas que permitan crear soluciones funcionales y con un buen acabado estético.
+* **Aprendiendo:** Me especialicé en el CRN de Getafe en desarrollo orientado a objetos y bases de datos relacionales (*Certificado profesional IFCD0112*), entre otros(Spring, Hibernate, Unity, Unreal...).
+* **Intereses:** Me apasiona seguir aprendiendo sobre nuevas herramientas que permitan crear soluciones funcionales y con un buen acabado.
 
 ---
 
