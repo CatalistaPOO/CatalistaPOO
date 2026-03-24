@@ -3,21 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=3D+Artist+%7C+Graphic+Designer;Game+Developer+%7C+Creative+Coder;Blending+Art+%26+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Artista+3D+%7C+Dise%C3%B1ador+Gr%C3%A1fico;Desarrollador+de+Juegos+%7C+Creative+Coder;Uniendo+Arte+y+Tecnolog%C3%ADa" alt="Typing SVG" />
 </p>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%8E%A8+Art+%26+Design" alt="Art & Design" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%8E%A8+Arte+y+Dise%C3%B1o" alt="Arte y Diseño" />
 
 <p>
-  <img src="https://img.shields.io/badge/Fine%20Arts-🎨_Visual_Mastery-gray?style=flat-square" />
-  <img src="https://img.shields.io/badge/3D_Modeling-🧊_Assets_%26_Environments-gray?style=flat-square" />
-  <img src="https://img.shields.io/badge/Image_%26_Layout-📐_Visual_Structure-gray?style=flat-square" />
-  <img src="https://img.shields.io/badge/Video_Editing-📹_Motion_Graphics-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bellas_Artes-🎨_Dominio_Visual-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modelado_3D-🧊_Assets_y_Entornos-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Imagen_y_Maquetaci%C3%B3n-📐_Estructura_Visual-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Edici%C3%B3n_de_Vídeo-📹_Motion_Graphics-gray?style=flat-square" />
 </p>
 
-> **See more at (click over):**
+> **Ver más en (clic para abrir):**
 <p>
   <a href="https://catalista.artstation.com" target="_blank">
     <img src="https://img.shields.io/badge/ArtStation_%E2%96%A3-0057ff?style=for-the-badge&logo=artstation&logoColor=white" />
@@ -29,9 +29,9 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%92%BB+Development" alt="Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%92%BB+Desarrollo" alt="Desarrollo" />
 
-### ⌨️ **CODE**
+### ⌨️ **CÓDIGO**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="center" />
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" align="center" />
 </p>
 
-### 🗄️ **DDBB**
+### 🗄️ **BASES DE DATOS**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" align="center" />
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" align="center" />
 </p>
 
-### 🛠️ **TOOLS**
+### 🛠️ **HERRAMIENTAS**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="center" />
@@ -78,34 +78,34 @@
 
 ---
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Sobre+m%C3%AD" alt="Sobre mí" />
 
 Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** (UCM) con el desarrollo de software. Me interesa especialmente cómo el diseño visual y la programación pueden trabajar juntos.
 
 * **Lo que hago:** Desarrollo aplicaciones con **Java y Spring**, gestiono bases de datos y diseño experiencias en **3D y videojuegos** (Unreal/Unity).
-* **Mi formación:** Me especialicé en el CRN de Getafe en desarrollo orientado a objetos y bases de datos relacionales (*Certificado IFCD0112*).
-* **Intereses:** Me apasiona seguir aprendiendo sobre nuevas herramientas que permitan crear soluciones funcionales y con buen acabado estético.
+* **Mi formación:** Me especialicé en el CRN de Getafe en desarrollo orientado a objetos y bases de datos relacionales (*Certificado profesional IFCD0112*).
+* **Intereses:** Me apasiona seguir aprendiendo sobre nuevas herramientas que permitan crear soluciones funcionales y con un buen acabado estético.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%94%A3+Languages" alt="Languages" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%94%A3+Idiomas" alt="Idiomas" />
 
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <strong>Spanish</strong><br><small>Native</small><br>
+      <strong>Español</strong><br><small>Nativo</small><br>
       <img src="https://geps.dev/progress/100?dangerColor=36BCF7&accType=tada" />
     </td>
     <td align="center" width="25%">
-      <strong>Italian</strong><br><small>Work Proficiency</small><br>
+      <strong>Italiano</strong><br><small>Competencia profesional</small><br>
       <img src="https://geps.dev/progress/75?dangerColor=36BCF7&accType=tada" />
     </td>
     <td align="center" width="25%">
-      <strong>English</strong><br><small>Limited</small><br>
+      <strong>Inglés</strong><br><small>Limitado</small><br>
       <img src="https://geps.dev/progress/60?dangerColor=36BCF7&accType=tada" />
     </td>
     <td align="center" width="25%">
-      <strong>French</strong><br><small>Initial</small><br>
+      <strong>Francés</strong><br><small>Inicial</small><br>
       <img src="https://geps.dev/progress/25?dangerColor=36BCF7&accType=tada" />
     </td>
   </tr>
@@ -113,7 +113,7 @@ Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** (UCM) co
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%93%AB+Contact" alt="Contact" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%93%AB+Contacto" alt="Contacto" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fernandogaite/">LinkedIn</a> 
