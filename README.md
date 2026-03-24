@@ -27,7 +27,7 @@ Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** con el d
   <img src="https://img.shields.io/badge/Edici%C3%B3n_de_Vídeo-📹_Motion_Graphics-gray?style=flat-square" />
 </p>
 
-> **Ver más en (clic para abrir):**
+> **clic para abrir enlace:**
 <p>
   <a href="https://catalista.artstation.com" target="_blank">
     <img src="https://img.shields.io/badge/ArtStation_%E2%96%A3-0057ff?style=for-the-badge&logo=artstation&logoColor=white" />
@@ -53,6 +53,8 @@ Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** con el d
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" />
 </p>
 
+<br>
+
 #### ⚙️ **FRAMEWORKS**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" align="center" />
@@ -62,6 +64,8 @@ Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** con el d
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" align="center" />
 </p>
 
+<br>
+
 #### 🗄️ **BASES DE DATOS**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" align="center" />
@@ -70,6 +74,8 @@ Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** con el d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" align="center" />
 </p>
+
+<br>
 
 #### 🛠️ **HERRAMIENTAS**
 <p>
