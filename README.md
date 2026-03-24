@@ -13,7 +13,8 @@
 <p>
   <img src="https://img.shields.io/badge/Fine%20Arts-🎨_Visual_Mastery-gray?style=flat-square" />
   <img src="https://img.shields.io/badge/3D_Modeling-🧊_Assets_%26_Environments-gray?style=flat-square" />
-  <img src="https://img.shields.io/badge/Graphic_Design-📐_Branding_%26_Layout-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Image_%26_Layout-📐_Visual_Structure-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Video_Editing-📹_Motion_Graphics-gray?style=flat-square" />
 </p>
 
 > **See more at (click over):**
@@ -114,7 +115,6 @@ Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** (UCM) co
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%93%AB+Contact" alt="Contact" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/fernandogaite/">LinkedIn</a> · 
-  <a href="mailto:fergthode@gmail.com">Email</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernandogaite/">LinkedIn</a> 
 </p>
