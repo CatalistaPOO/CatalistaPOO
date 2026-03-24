@@ -8,7 +8,17 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%8E%A8+Arte+y+Dise%C3%B1o" alt="Arte y Diseño" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Sobre+m%C3%AD" alt="Sobre mí" /> -->
+
+Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** con el desarrollo de software. Me interesa especialmente cómo el diseño visual y la programación pueden trabajar juntos.
+
+* **Lo que hago:** Desarrollo aplicaciones con **Java y Spring**, gestiono bases de datos y diseño experiencias en **3D y videojuegos** (Unreal/Unity).
+* **Aprendiendo:** Me especialicé en el CRN de Getafe en desarrollo orientado a objetos y bases de datos relacionales (*Certificado profesional IFCD0112*), entre otros(Spring, Hibernate, Unity, Unreal...).
+* **Intereses:** Me apasiona seguir aprendiendo sobre nuevas herramientas que permitan crear soluciones funcionales y con un buen acabado.
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%8E%A8+Arte+y+Dise%C3%B1o" alt="Arte y Diseño" />
 
 <p>
   <img src="https://img.shields.io/badge/Bellas_Artes-🎨_Dominio_Visual-gray?style=flat-square" />
@@ -29,9 +39,9 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%92%BB+Desarrollo" alt="Desarrollo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%92%BB+Desarrollo" alt="Desarrollo" />
 
-### ⌨️ **CÓDIGO**
+#### ⌨️ **CÓDIGO**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" align="center" />
@@ -46,7 +56,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" />
 </p>
 
-### ⚙️ **FRAMEWORKS**
+#### ⚙️ **FRAMEWORKS**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" align="center" />
@@ -55,7 +65,7 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" align="center" />
 </p>
 
-### 🗄️ **BASES DE DATOS**
+#### 🗄️ **BASES DE DATOS**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" align="center" />
@@ -64,7 +74,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" align="center" />
 </p>
 
-### 🛠️ **HERRAMIENTAS**
+#### 🛠️ **HERRAMIENTAS**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" align="center" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" align="center" />
@@ -78,42 +88,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Sobre+m%C3%AD" alt="Sobre mí" />
-
-Hola, soy Fernando. Mi perfil combina la formación en **Bellas Artes** con el desarrollo de software. Me interesa especialmente cómo el diseño visual y la programación pueden trabajar juntos.
-
-* **Lo que hago:** Desarrollo aplicaciones con **Java y Spring**, gestiono bases de datos y diseño experiencias en **3D y videojuegos** (Unreal/Unity).
-* **Aprendiendo:** Me especialicé en el CRN de Getafe en desarrollo orientado a objetos y bases de datos relacionales (*Certificado profesional IFCD0112*), entre otros(Spring, Hibernate, Unity, Unreal...).
-* **Intereses:** Me apasiona seguir aprendiendo sobre nuevas herramientas que permitan crear soluciones funcionales y con un buen acabado.
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%94%A3+Idiomas" alt="Idiomas" />
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <strong>Español</strong><br><small>Nativo</small><br>
-      <img src="https://geps.dev/progress/100?dangerColor=36BCF7&accType=tada" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Italiano</strong><br><small>Competencia profesional</small><br>
-      <img src="https://geps.dev/progress/75?dangerColor=36BCF7&accType=tada" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Inglés</strong><br><small>Limitado</small><br>
-      <img src="https://geps.dev/progress/60?dangerColor=36BCF7&accType=tada" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Francés</strong><br><small>Inicial</small><br>
-      <img src="https://geps.dev/progress/25?dangerColor=36BCF7&accType=tada" />
-    </td>
-  </tr>
-</table>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%93%AB+Contacto" alt="Contacto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1&pause=1000&color=36BCF7&width=450&lines=%F0%9F%93%AB+Contacto" alt="Contacto" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fernandogaite/">LinkedIn</a> 
